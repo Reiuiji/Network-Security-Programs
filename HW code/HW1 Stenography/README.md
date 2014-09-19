@@ -32,3 +32,8 @@ python2.7 HW1.py -i /home/user/Pictures/image.jpg
 Enable Debug
 
 python2.7 HW1.py -d
+
+Diagram:
+-------------------------
+The Diagram can be viewed with Dia.
+Dia can be downloaded here: http://dia-installer.de/
