@@ -13,7 +13,7 @@ The License plate image is a stock image obtain from their paper.
 Use:
 -------------------------
 
-python2.7 HW1.py [-i (image)] [ -d (debug)] [ -s (seed) ] [-sa (enable shift algorith)]
+python2.7 HW1.py [-h] [-i IMG] [-d] [-s SEED] [-sa] [-w]
 
 Examples:
 

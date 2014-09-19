@@ -26,7 +26,7 @@ args = parser.parse_args()
 if args.IMG:
 	IMG = args.IMG
 else:
-	IMG = '{0}/{1}'.format(os.path.dirname(os.path.realpath(__file__)),'licenseplatefig7.jpg')
+	IMG = '{0}/{1}'.format(os.path.dirname(os.path.realpath(__file__)),'licenseplatefig7example.jpg')
 
 print IMG
 
