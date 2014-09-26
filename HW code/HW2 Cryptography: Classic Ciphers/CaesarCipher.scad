@@ -1,4 +1,4 @@
-//Based on OpenSCAD example23
+//Builds from OpenSCAD: The Programmers Solid 3D CAD Modeller
 //Caesar Cipher 3D Tool
 use <MCAD/fonts.scad>
 
