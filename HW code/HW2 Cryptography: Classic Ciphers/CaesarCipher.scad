@@ -1,4 +1,4 @@
-//Builds from OpenSCAD: The Programmers Solid 3D CAD Modeller
+//Based on OpenSCAD example23
 //Caesar Cipher 3D Tool
 use <MCAD/fonts.scad>
 
@@ -26,6 +26,8 @@ color([255/255,192/255,32/255])
   rotate_extrude(convexity = 10) translate([39, 2, 0]) circle(r = 1, $fn = 100);
   rotate_extrude(convexity = 10) translate([29, 2, 0]) circle(r = 1, $fn = 100);
 }
+
+translate([0,0,5])
 color([18/255,56/255,131/255])
 {
   circle_words(word_offset=50.0,word_height=5.0);
